@@ -1,0 +1,20 @@
+{
+	"profile":[
+		{
+			"basics":{
+				"name":"sravani",
+				"role":"student",
+				"phone":"168796516",
+				"email":"osdfhx@gmail.com"
+			}
+		},
+		{
+			"basics":{
+				"name":"sri",
+				"role":"student",
+				"phone":"1687954387",
+				"email":"abcds@gmail.com"
+			}
+		}
+	]
+}

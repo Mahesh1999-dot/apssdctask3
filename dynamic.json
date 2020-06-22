@@ -1,0 +1,50 @@
+{
+	"basics": {
+		"img":"images/profile-2092113_960_720.png",
+		"name": "Sai Mahesh",
+		"profession": "Web Designing",
+		"email": "mahesh85515@gmail.com",
+		"place": "Madanapalle"
+	},
+
+	"career":{
+		"info": "I want to improve my skills and and put all my knowledge at work"
+	},
+	"education": [{
+			"Sno": "1",
+			"Institute": "MITS",
+			"Degree": "B-Tech",
+			"Yop": "2021"
+		},
+		{
+
+			"Sno": "2",
+			"Institute": "KRishna Reddy Sidharth",
+			"Degree": "Intermediate",
+			"Yop": "2017"
+		},
+		{
+			"Sno": "3",
+			"Institute": "Vijaya Bharathi",
+			"Degree": "SSC",
+			"Yop": "2015"
+
+		}
+	],
+	"skills": [{
+			"information": "Adobe PhotoShop"
+		},
+		{
+			"information": "Html"
+		},
+		{
+			"information": "css"
+		},
+				{
+			"information": "c"
+		},
+				{
+			"information": "java"
+		},
+	]
+}
